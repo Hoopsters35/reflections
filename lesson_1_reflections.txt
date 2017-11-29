@@ -1,0 +1,12 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Being able to see the two files side by side made it very easy to spot differences or bugs
+that would have been nearly impossible in the entire files
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Having easy access to all versions of my file would make it much easier to clean up bugs that occur
+while patching new bugs. As I could see why things worked before and why they don't now
+
+Why do some VCS only save one file while others save all files
+in coding you need every file to work together, but in another project the files may be irrelevant to eachother
+
+use git log to find the id's and commit messages, then use git diff to find differences
